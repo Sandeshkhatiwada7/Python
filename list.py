@@ -1,0 +1,10 @@
+l1=[1,2,4,9]
+print(l1[2])
+l1.sort()
+print(l1)
+l1.reverse()
+print(l1)
+l1.append(9)
+print(l1)
+l1.insert(0,"sandesh")
+print(l1)

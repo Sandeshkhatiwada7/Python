@@ -1,0 +1,6 @@
+x=(1,2,3,4,1,3,8)
+print(type(x))
+a=x.count(1)
+print(a)
+print(x.index(3))
+print(x)
